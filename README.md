@@ -7,6 +7,14 @@ A versão do script possui: Apache 2.4.48, MariaDB 10.4.20, PHP 8.0.9 & PEAR + S
 <!-- Imagem com link -->
 [<img src="https://i.imgur.com/Yg0ZvsD.png">](https://www.apachefriends.org/pt_br/index.html)
 
+## Como usar os scripts?
+Abrir o terminal do Ubuntu e seguir os passos:
+1. Digite cd download, pasta para baixar o .run.
+2. Caso queira criar uma pastar digite mkdir pasta-xampp && cd pasta-xampp.
+3. Rodar o script de atualização e instalação do Xampp digite bash ./atualizacao-xampp.sh.
+4. Caso queira só atualizar seus pacotes digite bash ./atualizar.sh.
+5. Caso queira só instalar o Xampp digite bash ./xampp. 
+
 ## Sobre o Xampp
 * Extensões no Xampp acesse: https://www.apachefriends.org/pt_br/add-ons.html
 * Para conhecer as demais versoes do Xampp acesse: https://www.apachefriends.org/pt_br/download.html
